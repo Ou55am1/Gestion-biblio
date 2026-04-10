@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BiblioConnect - Gestion de Bibliothèque",
+  title: "BiblioConnect - BENATIK Mohammed",
   description: "Application professionnelle de gestion de bibliothèque personnelle et de mobilier dynamique",
 };
 
